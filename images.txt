@@ -8,3 +8,4 @@ zack357/douban-tool:2.0.3
 mtphotos/mt-photos
 mtphotos/mt-photos-ai
 mtphotos/mt-photos-deepface
+olbat/cupsd
